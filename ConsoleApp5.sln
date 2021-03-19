@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleCommandCalulcation", "MultipleCommandCalulcation.csproj", "{380C6190-EAAD-4C31-9E66-2A1D607C3200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "..\XUnitTestProject1\XUnitTestProject1.csproj", "{BC2AAEFD-DA23-450B-AA04-351A886571A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{380C6190-EAAD-4C31-9E66-2A1D607C3200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380C6190-EAAD-4C31-9E66-2A1D607C3200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380C6190-EAAD-4C31-9E66-2A1D607C3200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380C6190-EAAD-4C31-9E66-2A1D607C3200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2AAEFD-DA23-450B-AA04-351A886571A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2AAEFD-DA23-450B-AA04-351A886571A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2AAEFD-DA23-450B-AA04-351A886571A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2AAEFD-DA23-450B-AA04-351A886571A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82F5B3AA-545B-4271-98CE-80BFF801FE46}
+	EndGlobalSection
+EndGlobal
